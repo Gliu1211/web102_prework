@@ -19,6 +19,26 @@ body {
     margin-top: -10px;
 }
 
+.nav-bar {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    background-color: #a8b0bc;
+    padding: 12px;
+    border-radius: 7px;
+    margin: 16px 0;
+}
+
+.nav-bar a {
+    color: #10233c;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.nav-bar a:hover {
+    text-decoration: underline;
+}
+
 .stats-container {
     display: flex;
 }
