@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![My Gif] (https://github.com/Gliu1211/web102_prework/blob/main/Animation.gif)
+![Banner] (https://github.com/Gliu1211/web102_prework/blob/main/Animation.gif)
 GIF created with ScreenToGif
 
 ## Notes
