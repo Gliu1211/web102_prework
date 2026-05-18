@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Banner](./Animation.gif)
+![Banner](./Updated.gif)
 GIF created with ScreenToGif
 
 ## Notes
