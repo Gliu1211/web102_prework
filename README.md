@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Banner] (web102_prework\Animation.gif)
+![Banner] (./Animation.gif)
 GIF created with ScreenToGif
 
 ## Notes
